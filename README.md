@@ -124,3 +124,9 @@ and common cyber threats such as malware, phishing, and ransomware helps individ
 
 Through this task, I learned the importance of cybersecurity and how the CIA Triad helps protect information. I also understood the differences 
 between various types of hackers and the risks posed by malware, phishing, and ransomware attacks.
+
+## Author
+
+**Name:** Ramya K
+**Internship Task:** Cybersecurity Fundamentals  
+**Platform:** GitHub  
