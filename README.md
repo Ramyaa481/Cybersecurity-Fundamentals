@@ -127,7 +127,6 @@ between various types of hackers and the risks posed by malware, phishing, and r
 
 ## Author
 
-**Name:** Ramya K
-
+**Name:** Ramya K  
 **Internship Task:** Cybersecurity Fundamentals  
 **Platform:** GitHub  
