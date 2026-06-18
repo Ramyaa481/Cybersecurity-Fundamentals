@@ -2,6 +2,18 @@
 
 ## Internship Task
 
+This repository contains my internship task on Cybersecurity Fundamentals. It covers:
+
+- Cybersecurity basics
+- CIA Triad
+- Types of hackers
+- Malware
+- Phishing
+- Ransomware
+- Security best practices
+
+Prepared as part of my cybersecurity internship learning program.
+
 ### Introduction
 Cybersecurity is the practice of protecting computers, networks, systems, and data from unauthorized access, cyberattacks, and damage. 
 It helps ensure the safety and reliability of digital information.
